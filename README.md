@@ -8,6 +8,13 @@ npm i
 node index.js --project_uri="/Users/lianjia/Desktop/my notes/node/demo/componentAnalysis/test" --lib_list="cutter-ui,button-ui,antd,ccc_ui" --output_uri="/Users/lianjia/Desktop/my notes/node/demo/componentAnalysis/result.json" --project_name="projectABc"
 ```
 
+## 命令解释
+
+project_uri：要统计的项目绝对路径
+lib_list： 要统计哪些组件库
+output_uri： 要输出到哪个文件中
+project_name： 项目名称
+
 ## 目录介绍
 
 /src： 两个 babel 插件代码
