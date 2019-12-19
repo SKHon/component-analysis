@@ -11,18 +11,27 @@ node index.js --project_uri="/Users/lianjia/Desktop/my notes/node/demo/component
 ## 命令解释
 
 project_uri：要统计的项目绝对路径
+
 lib_list： 要统计哪些组件库
+
 output_uri： 要输出到哪个文件中
+
 project_name： 项目名称
 
 ## 目录介绍
 
 /src： 两个 babel 插件代码
+
 /test：测试模拟项目源代码路径
+
 .gitignore: git 提交时忽略文件或文件夹的配置文件
+
 command: 用来记录调用命令文件（只是单纯记录，方便后续 copy）
+
 README.md: 项目介绍
+
 index.js: 主要实现统计组件功能
+
 result.json: 是将统计结果输出到该文件中
 
 ## 实现思路
