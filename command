@@ -1,0 +1,2 @@
+
+node  index.js --project_uri="/Users/lianjia/Desktop/my notes/node/demo/componentAnalysis/test" --lib_list="cutter-ui,button-ui,antd,ccc_ui" --output_uri="/Users/lianjia/Desktop/my notes/node/demo/componentAnalysis/result.json" --project_name="projectABc"
